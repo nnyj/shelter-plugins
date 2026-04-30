@@ -1,0 +1,1 @@
+{"name":"Stereo Fix","author":"nnyj","description":"Forces stereo Opus decoding in voice channels. Fixes mono audio from music bots in Legcord/Electron clients.","hash":"ff4aa7d761147d27d226e7ee1ade841c"}
