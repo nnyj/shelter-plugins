@@ -1,8 +1,0 @@
-{
-  "name": "inline-css",
-  "dependencies": {
-    "@srsholmes/solid-code-input": "^0.0.18",
-    "highlight.js": "^11.9.0"
-  },
-  "type": "module"
-}
